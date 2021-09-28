@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhuynh-cs
+- 👋 Hi, I’m Bao
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python :)
 - 💞️ I’m looking to collaborate on Github and other platforms!
